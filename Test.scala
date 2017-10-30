@@ -21,4 +21,3 @@ object ChecksumAccumulator {
 }
 
 println ( ChecksumAccumulator.calculate("Welcome to Scala Chinese community")) 
-
